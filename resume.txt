@@ -9,3 +9,10 @@ EDUCATION
 Bachelor of Science in Information Technology  
 [International Islamic University, Islamabad], [Islamabad, apakistan]  
 Expected Graduation: [2027] 
+--------------------------
+SKILLS
+-------------------------------
+- Programming Languages: C++ 
+- Computer Graphics: OpenGL  
+- Software Development: Object-Oriented Programming  
+- Tools & Platforms: Visual Studio, Code::Blocks 
